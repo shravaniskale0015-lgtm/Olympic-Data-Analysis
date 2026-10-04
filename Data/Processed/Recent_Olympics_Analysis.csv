@@ -1,0 +1,185 @@
+Edition,Year,Country,NOC,Gold,Silver,Bronze,Total
+Tokyo 2020,2020,United States,USA,39,41,33,113
+Tokyo 2020,2020,China,CHN,38,32,18,88
+Tokyo 2020,2020,Japan,JPN,27,14,17,58
+Tokyo 2020,2020,Great Britain,GBR,22,21,22,65
+Tokyo 2020,2020,ROC,ROC,20,28,23,71
+Tokyo 2020,2020,Australia,AUS,17,7,22,46
+Tokyo 2020,2020,Netherlands,NED,10,12,14,36
+Tokyo 2020,2020,France,FRA,10,12,11,33
+Tokyo 2020,2020,Germany,GER,10,11,16,37
+Tokyo 2020,2020,Italy,ITA,10,10,20,40
+Tokyo 2020,2020,Canada,CAN,7,6,11,24
+Tokyo 2020,2020,Brazil,BRA,7,6,8,21
+Tokyo 2020,2020,New Zealand,NZL,7,6,7,20
+Tokyo 2020,2020,Cuba,CUB,7,3,5,15
+Tokyo 2020,2020,Hungary,HUN,6,7,7,20
+Tokyo 2020,2020,South Korea,KOR,6,4,10,20
+Tokyo 2020,2020,Poland,POL,4,5,5,14
+Tokyo 2020,2020,Czech Republic,CZE,4,4,3,11
+Tokyo 2020,2020,Kenya,KEN,4,4,2,10
+Tokyo 2020,2020,Norway,NOR,4,2,2,8
+Tokyo 2020,2020,Jamaica,JAM,4,1,4,9
+Tokyo 2020,2020,Spain,ESP,3,8,6,17
+Tokyo 2020,2020,Sweden,SWE,3,6,0,9
+Tokyo 2020,2020,Switzerland,SUI,3,4,6,13
+Tokyo 2020,2020,Denmark,DEN,3,4,4,11
+Tokyo 2020,2020,Croatia,CRO,3,3,2,8
+Tokyo 2020,2020,Iran,IRI,3,2,2,7
+Tokyo 2020,2020,Serbia,SRB,3,1,5,9
+Tokyo 2020,2020,Belgium,BEL,3,1,3,7
+Tokyo 2020,2020,Bulgaria,BUL,3,1,2,6
+Tokyo 2020,2020,Slovenia,SLO,3,1,1,5
+Tokyo 2020,2020,Uzbekistan,UZB,3,0,2,5
+Tokyo 2020,2020,Georgia,GEO,2,5,1,8
+Tokyo 2020,2020,Chinese Taipei,TPE,2,4,6,12
+Tokyo 2020,2020,Turkey,TUR,2,2,9,13
+Tokyo 2020,2020,Greece,GRE,2,1,1,4
+Tokyo 2020,2020,Uganda,UGA,2,1,1,4
+Tokyo 2020,2020,Ecuador,ECU,2,1,0,3
+Tokyo 2020,2020,Ireland,IRL,2,0,2,4
+Tokyo 2020,2020,Israel,ISR,2,0,2,4
+Tokyo 2020,2020,Qatar,QAT,2,0,1,3
+Tokyo 2020,2020,Bahamas,BAH,2,0,0,2
+Tokyo 2020,2020,Kosovo,KOS,2,0,0,2
+Tokyo 2020,2020,Ukraine,UKR,1,6,12,19
+Tokyo 2020,2020,Belarus,BLR,1,3,3,7
+Tokyo 2020,2020,Romania,ROU,1,3,0,4
+Tokyo 2020,2020,Venezuela,VEN,1,3,0,4
+Tokyo 2020,2020,India,IND,1,2,4,7
+Tokyo 2020,2020,Hong Kong,HKG,1,2,3,6
+Tokyo 2020,2020,Philippines,PHI,1,2,1,4
+Tokyo 2020,2020,Slovakia,SVK,1,2,1,4
+Tokyo 2020,2020,South Africa,RSA,1,2,0,3
+Tokyo 2020,2020,Austria,AUT,1,1,5,7
+Tokyo 2020,2020,Egypt,EGY,1,1,4,6
+Tokyo 2020,2020,Indonesia,INA,1,1,3,5
+Tokyo 2020,2020,Ethiopia,ETH,1,1,2,4
+Tokyo 2020,2020,Portugal,POR,1,1,2,4
+Tokyo 2020,2020,Tunisia,TUN,1,1,0,2
+Tokyo 2020,2020,Estonia,EST,1,0,1,2
+Tokyo 2020,2020,Fiji,FIJ,1,0,1,2
+Tokyo 2020,2020,Latvia,LAT,1,0,1,2
+Tokyo 2020,2020,Thailand,THA,1,0,1,2
+Tokyo 2020,2020,Bermuda,BER,1,0,0,1
+Tokyo 2020,2020,Morocco,MAR,1,0,0,1
+Tokyo 2020,2020,Puerto Rico,PUR,1,0,0,1
+Tokyo 2020,2020,Colombia,COL,0,4,1,5
+Tokyo 2020,2020,Azerbaijan,AZE,0,3,4,7
+Tokyo 2020,2020,Dominican Republic,DOM,0,3,2,5
+Tokyo 2020,2020,Armenia,ARM,0,2,2,4
+Tokyo 2020,2020,Kyrgyzstan,KGZ,0,2,1,3
+Tokyo 2020,2020,Mongolia,MGL,0,1,3,4
+Tokyo 2020,2020,Argentina,ARG,0,1,2,3
+Tokyo 2020,2020,San Marino,SMR,0,1,2,3
+Tokyo 2020,2020,Jordan,JOR,0,1,1,2
+Tokyo 2020,2020,Malaysia,MAS,0,1,1,2
+Tokyo 2020,2020,Nigeria,NGR,0,1,1,2
+Tokyo 2020,2020,Bahrain,BRN,0,1,0,1
+Tokyo 2020,2020,Lithuania,LTU,0,1,0,1
+Tokyo 2020,2020,Namibia,NAM,0,1,0,1
+Tokyo 2020,2020,North Macedonia,MKD,0,1,0,1
+Tokyo 2020,2020,Saudi Arabia,KSA,0,1,0,1
+Tokyo 2020,2020,Turkmenistan,TKM,0,1,0,1
+Tokyo 2020,2020,Kazakhstan,KAZ,0,0,8,8
+Tokyo 2020,2020,Mexico,MEX,0,0,4,4
+Tokyo 2020,2020,Finland,FIN,0,0,2,2
+Tokyo 2020,2020,Botswana,BOT,0,0,1,1
+Tokyo 2020,2020,Burkina Faso,BUR,0,0,1,1
+Tokyo 2020,2020,Ivory Coast,CIV,0,0,1,1
+Tokyo 2020,2020,Ghana,GHA,0,0,1,1
+Tokyo 2020,2020,Grenada,GRN,0,0,1,1
+Tokyo 2020,2020,Kuwait,KUW,0,0,1,1
+Tokyo 2020,2020,Moldova,MDA,0,0,1,1
+Tokyo 2020,2020,Syria,SYR,0,0,1,1
+Paris 2024,2024,United States,USA,40,44,42,126
+Paris 2024,2024,China,CHN,40,27,24,91
+Paris 2024,2024,Japan,JPN,20,12,13,45
+Paris 2024,2024,Australia,AUS,18,19,16,53
+Paris 2024,2024,France,FRA,16,26,22,64
+Paris 2024,2024,Netherlands,NED,15,7,12,34
+Paris 2024,2024,Great Britain,GBR,14,22,29,65
+Paris 2024,2024,South Korea,KOR,13,9,10,32
+Paris 2024,2024,Italy,ITA,12,13,15,40
+Paris 2024,2024,Germany,GER,12,13,8,33
+Paris 2024,2024,New Zealand,NZL,10,7,3,20
+Paris 2024,2024,Canada,CAN,9,7,11,27
+Paris 2024,2024,Uzbekistan,UZB,8,2,3,13
+Paris 2024,2024,Hungary,HUN,6,7,6,19
+Paris 2024,2024,Spain,ESP,5,4,9,18
+Paris 2024,2024,Sweden,SWE,4,4,3,11
+Paris 2024,2024,Kenya,KEN,4,2,5,11
+Paris 2024,2024,Norway,NOR,4,1,3,8
+Paris 2024,2024,Ireland,IRL,4,0,3,7
+Paris 2024,2024,Brazil,BRA,3,7,10,20
+Paris 2024,2024,Iran,IRI,3,6,3,12
+Paris 2024,2024,Ukraine,UKR,3,5,4,12
+Paris 2024,2024,Romania,ROU,3,4,2,9
+Paris 2024,2024,Georgia,GEO,3,3,1,7
+Paris 2024,2024,Belgium,BEL,3,1,6,10
+Paris 2024,2024,Bulgaria,BUL,3,1,3,7
+Paris 2024,2024,Serbia,SRB,3,1,1,5
+Paris 2024,2024,Czech Republic,CZE,3,0,2,5
+Paris 2024,2024,Denmark,DEN,2,2,5,9
+Paris 2024,2024,Azerbaijan,AZE,2,2,3,7
+Paris 2024,2024,Croatia,CRO,2,2,3,7
+Paris 2024,2024,Cuba,CUB,2,1,6,9
+Paris 2024,2024,Bahrain,BRN,2,1,1,4
+Paris 2024,2024,Slovenia,SLO,2,1,0,3
+Paris 2024,2024,Chinese Taipei,TPE,2,0,5,7
+Paris 2024,2024,Austria,AUT,2,0,3,5
+Paris 2024,2024,Hong Kong,HKG,2,0,2,4
+Paris 2024,2024,Philippines,PHI,2,0,2,4
+Paris 2024,2024,Algeria,ALG,2,0,1,3
+Paris 2024,2024,Indonesia,INA,2,0,1,3
+Paris 2024,2024,Israel,ISR,1,5,1,7
+Paris 2024,2024,Poland,POL,1,4,5,10
+Paris 2024,2024,Kazakhstan,KAZ,1,3,3,7
+Paris 2024,2024,Jamaica,JAM,1,3,2,6
+Paris 2024,2024,South Africa,RSA,1,3,2,6
+Paris 2024,2024,Thailand,THA,1,3,2,6
+Paris 2024,2024,Ethiopia,ETH,1,3,0,4
+Paris 2024,2024,Switzerland,SUI,1,2,5,8
+Paris 2024,2024,Ecuador,ECU,1,2,2,5
+Paris 2024,2024,Portugal,POR,1,2,1,4
+Paris 2024,2024,Greece,GRE,1,1,6,8
+Paris 2024,2024,Argentina,ARG,1,1,1,3
+Paris 2024,2024,Egypt,EGY,1,1,1,3
+Paris 2024,2024,Tunisia,TUN,1,1,1,3
+Paris 2024,2024,Botswana,BOT,1,1,0,2
+Paris 2024,2024,Chile,CHI,1,1,0,2
+Paris 2024,2024,St Lucia,LCA,1,1,0,2
+Paris 2024,2024,Uganda,UGA,1,1,0,2
+Paris 2024,2024,Dominican Republic,DOM,1,0,2,3
+Paris 2024,2024,Guatemala,GUA,1,0,1,2
+Paris 2024,2024,Morocco,MAR,1,0,1,2
+Paris 2024,2024,Dominica,DMA,1,0,0,1
+Paris 2024,2024,Pakistan,PAK,1,0,0,1
+Paris 2024,2024,Turkey,TUR,0,3,5,8
+Paris 2024,2024,Mexico,MEX,0,3,2,5
+Paris 2024,2024,Armenia,ARM,0,3,1,4
+Paris 2024,2024,Colombia,COL,0,3,1,4
+Paris 2024,2024,Kyrgyzstan,KGZ,0,2,4,6
+Paris 2024,2024,North Korea,PRK,0,2,4,6
+Paris 2024,2024,Lithuania,LTU,0,2,2,4
+Paris 2024,2024,India,IND,0,1,5,6
+Paris 2024,2024,Moldova,MDA,0,1,3,4
+Paris 2024,2024,Kosovo,KOS,0,1,1,2
+Paris 2024,2024,Cyprus,CYP,0,1,0,1
+Paris 2024,2024,Fiji,FIJ,0,1,0,1
+Paris 2024,2024,Jordan,JOR,0,1,0,1
+Paris 2024,2024,Mongolia,MGL,0,1,0,1
+Paris 2024,2024,Panama,PAN,0,1,0,1
+Paris 2024,2024,Tajikistan,TJK,0,0,3,3
+Paris 2024,2024,Albania,ALB,0,0,2,2
+Paris 2024,2024,Grenada,GRN,0,0,2,2
+Paris 2024,2024,Malaysia,MAS,0,0,2,2
+Paris 2024,2024,Puerto Rico,PUR,0,0,2,2
+Paris 2024,2024,Cape Verde,CPV,0,0,1,1
+Paris 2024,2024,Ivory Coast,CIV,0,0,1,1
+Paris 2024,2024,Peru,PER,0,0,1,1
+Paris 2024,2024,Qatar,QAT,0,0,1,1
+Paris 2024,2024,Refugee Olympic Team,EOR,0,0,1,1
+Paris 2024,2024,Singapore,SGP,0,0,1,1
+Paris 2024,2024,Slovakia,SVK,0,0,1,1
+Paris 2024,2024,Zambia,ZAM,0,0,1,1
