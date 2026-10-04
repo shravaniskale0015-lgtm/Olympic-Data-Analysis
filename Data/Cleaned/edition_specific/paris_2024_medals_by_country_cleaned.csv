@@ -1,0 +1,92 @@
+rank,country,country_code_original,noc,gold,silver,bronze,total,noc_standardization
+1,United States,US,USA,40,44,42,126,matched_by_country_name
+2,China,CHN,CHN,40,27,24,91,original_code_valid
+3,Japan,JPN,JPN,20,12,13,45,original_code_valid
+4,Australia,AUS,AUS,18,19,16,53,original_code_valid
+5,France,FRA,FRA,16,26,22,64,original_code_valid
+6,Netherlands,NED,NED,15,7,12,34,original_code_valid
+7,Great Britain,GBG,GBR,14,22,29,65,matched_by_country_name
+8,South Korea,KOR,KOR,13,9,10,32,original_code_valid
+9,Italy,ITA,ITA,12,13,15,40,original_code_valid
+10,Germany,GER,GER,12,13,8,33,original_code_valid
+11,New Zealand,NZ,NZL,10,7,3,20,matched_by_country_name
+12,Canada,CAN,CAN,9,7,11,27,original_code_valid
+13,Uzbekistan,UZB,UZB,8,2,3,13,original_code_valid
+14,Hungary,HUN,HUN,6,7,6,19,original_code_valid
+15,Spain,SPA,ESP,5,4,9,18,matched_by_country_name
+16,Sweden,SWE,SWE,4,4,3,11,original_code_valid
+17,Kenya,KEN,KEN,4,2,5,11,original_code_valid
+18,Norway,NOR,NOR,4,1,3,8,original_code_valid
+19,Ireland,IRE,IRL,4,0,3,7,matched_by_country_name
+20,Brazil,BRZ,BRA,3,7,10,20,matched_by_country_name
+21,Iran,IRN,IRI,3,6,3,12,matched_by_documented_alias
+22,Ukraine,UKR,UKR,3,5,4,12,original_code_valid
+23,Romania,ROM,ROU,3,4,2,9,matched_by_country_name
+24,Georgia,GEO,GEO,3,3,1,7,original_code_valid
+25,Belgium,BEL,BEL,3,1,6,10,original_code_valid
+26,Bulgaria,BUL,BUL,3,1,3,7,original_code_valid
+27,Serbia,SER,SRB,3,1,1,5,matched_by_country_name
+28,Czech Republic,CZE,CZE,3,0,2,5,original_code_valid
+29,Denmark,DEN,DEN,2,2,5,9,original_code_valid
+30,Azerbaijan,AZE,AZE,2,2,3,7,original_code_valid
+30,Croatia,CRO,CRO,2,2,3,7,original_code_valid
+32,Cuba,CUB,CUB,2,1,6,9,original_code_valid
+33,Bahrain,BHR,BRN,2,1,1,4,matched_by_country_name
+34,Slovenia,SLO,SLO,2,1,0,3,original_code_valid
+35,Chinese Taipei,TPE,TPE,2,0,5,7,original_code_valid
+36,Austria,AUT,AUT,2,0,3,5,original_code_valid
+37,Hong Kong,HK,HKG,2,0,2,4,matched_by_documented_alias
+37,Philippines,PHI,PHI,2,0,2,4,original_code_valid
+39,Algeria,ALG,ALG,2,0,1,3,original_code_valid
+39,Indonesia,IDN,INA,2,0,1,3,matched_by_country_name
+41,Israel,ISR,ISR,1,5,1,7,original_code_valid
+42,Poland,POL,POL,1,4,5,10,original_code_valid
+43,Kazakhstan,KAZ,KAZ,1,3,3,7,original_code_valid
+44,Jamaica,JAM,JAM,1,3,2,6,original_code_valid
+44,South Africa,SA,RSA,1,3,2,6,matched_by_country_name
+44,Thailand,THA,THA,1,3,2,6,original_code_valid
+47,Ethiopia,ETH,ETH,1,3,0,4,original_code_valid
+48,Switzerland,SWI,SUI,1,2,5,8,matched_by_country_name
+49,Ecuador,ECU,ECU,1,2,2,5,original_code_valid
+50,Portugal,POR,POR,1,2,1,4,original_code_valid
+51,Greece,GRE,GRE,1,1,6,8,original_code_valid
+52,Argentina,ARG,ARG,1,1,1,3,original_code_valid
+52,Egypt,EGY,EGY,1,1,1,3,original_code_valid
+52,Tunisia,TUN,TUN,1,1,1,3,original_code_valid
+55,Botswana,BOT,BOT,1,1,0,2,original_code_valid
+55,Chile,CHI,CHI,1,1,0,2,original_code_valid
+55,St Lucia,LCA,LCA,1,1,0,2,original_code_valid
+55,Uganda,UGA,UGA,1,1,0,2,original_code_valid
+59,Dominican Republic,DOM,DOM,1,0,2,3,original_code_valid
+60,Guatemala,GUA,GUA,1,0,1,2,original_code_valid
+60,Morocco,MOR,MAR,1,0,1,2,matched_by_country_name
+62,Dominica,DMA,DMA,1,0,0,1,original_code_valid
+62,Pakistan,PKN,PAK,1,0,0,1,matched_by_country_name
+64,Turkey,TUR,TUR,0,3,5,8,original_code_valid
+65,Mexico,MEX,MEX,0,3,2,5,original_code_valid
+66,Armenia,ARM,ARM,0,3,1,4,original_code_valid
+66,Colombia,COL,COL,0,3,1,4,original_code_valid
+68,North Korea,PRK,PRK,0,2,4,6,original_code_valid
+68,Kyrgyzstan,KGZ,KGZ,0,2,4,6,original_code_valid
+70,Lithuania,LTU,LTU,0,2,2,4,original_code_valid
+71,India,IND,IND,0,1,5,6,original_code_valid
+72,Moldova,MDA,MDA,0,1,3,4,original_code_valid
+73,Kosovo,KOS,KOS,0,1,1,2,original_code_valid
+74,Cyprus,CYP,CYP,0,1,0,1,original_code_valid
+74,Fiji,FIJ,FIJ,0,1,0,1,original_code_valid
+74,Jordan,JOR,JOR,0,1,0,1,original_code_valid
+74,Mongolia,MGL,MGL,0,1,0,1,original_code_valid
+74,Panama,PAN,PAN,0,1,0,1,original_code_valid
+79,Tajikistan,TJK,TJK,0,0,3,3,original_code_valid
+80,Albania,ALB,ALB,0,0,2,2,original_code_valid
+80,Grenada,GRN,GRN,0,0,2,2,original_code_valid
+80,Malaysia,MAS,MAS,0,0,2,2,original_code_valid
+80,Puerto Rico,PUR,PUR,0,0,2,2,original_code_valid
+84,Cape Verde,CPV,CPV,0,0,1,1,original_code_valid
+84,Ivory Coast,CIV,CIV,0,0,1,1,original_code_valid
+84,Refugee Olympic Team,EOR,EOR,0,0,1,1,original_code_valid
+84,Peru,PER,PER,0,0,1,1,original_code_valid
+84,Qatar,QAT,QAT,0,0,1,1,original_code_valid
+84,Singapore,SIN,SGP,0,0,1,1,matched_by_country_name
+84,Slovakia,SVK,SVK,0,0,1,1,original_code_valid
+84,Zambia,ZAM,ZAM,0,0,1,1,original_code_valid

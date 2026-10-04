@@ -1,0 +1,110 @@
+check,passed,detail
+"CLEANING_LOG.csv: parses, UTF-8, no BOM, no ragged rows",True,84 rows x 9 cols
+CLEANING_LOG.csv: no Unnamed/index/blank/duplicate headers,True,
+"REMOVED_ROWS_all_athlete_games_duplicate_medal_records.csv: parses, UTF-8, no BOM, no ragged rows",True,11 rows x 14 cols
+REMOVED_ROWS_all_athlete_games_duplicate_medal_records.csv: no Unnamed/index/blank/duplicate headers,True,
+"REMOVED_ROWS_athlete_events_duplicate_medal_records.csv: parses, UTF-8, no BOM, no ragged rows",True,11 rows x 15 cols
+REMOVED_ROWS_athlete_events_duplicate_medal_records.csv: no Unnamed/index/blank/duplicate headers,True,
+"paris_2024_athletes_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,11115 rows x 17 cols
+paris_2024_athletes_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+paris_2024_athletes_cleaned.csv: no fully blank rows or columns,True,
+paris_2024_athletes_cleaned.csv: no NA/NaN/null text tokens,True,
+paris_2024_athletes_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+paris_2024_athletes_cleaned.csv: numeric columns parse,True,"['athlete_code', 'height_cm', 'weight_kg']"
+"paris_2024_medals_by_country_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,91 rows x 9 cols
+paris_2024_medals_by_country_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+paris_2024_medals_by_country_cleaned.csv: no fully blank rows or columns,True,
+paris_2024_medals_by_country_cleaned.csv: no NA/NaN/null text tokens,True,
+paris_2024_medals_by_country_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+paris_2024_medals_by_country_cleaned.csv: numeric columns parse,True,"['rank', 'gold', 'silver', 'bronze', 'total']"
+"paris_2024_medals_by_sport_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,454 rows x 8 cols
+paris_2024_medals_by_sport_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+paris_2024_medals_by_sport_cleaned.csv: no fully blank rows or columns,True,
+paris_2024_medals_by_sport_cleaned.csv: no NA/NaN/null text tokens,True,
+paris_2024_medals_by_sport_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+paris_2024_medals_by_sport_cleaned.csv: numeric columns parse,True,"['rank_in_sport', 'gold', 'silver', 'bronze', 'total']"
+"tokyo_2020_medals_by_country_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,93 rows x 6 cols
+tokyo_2020_medals_by_country_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+tokyo_2020_medals_by_country_cleaned.csv: no fully blank rows or columns,True,
+tokyo_2020_medals_by_country_cleaned.csv: no NA/NaN/null text tokens,True,
+tokyo_2020_medals_by_country_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+tokyo_2020_medals_by_country_cleaned.csv: numeric columns parse,True,"['gold', 'silver', 'bronze', 'total', 'rank_by_total']"
+"all_athlete_games_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,300255 rows x 14 cols
+all_athlete_games_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+all_athlete_games_cleaned.csv: no fully blank rows or columns,True,
+all_athlete_games_cleaned.csv: no NA/NaN/null text tokens,True,
+all_athlete_games_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+all_athlete_games_cleaned.csv: numeric columns parse,True,"['entry_id', 'age', 'year']"
+"athlete_events_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,271105 rows x 15 cols
+athlete_events_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+athlete_events_cleaned.csv: no fully blank rows or columns,True,
+athlete_events_cleaned.csv: no NA/NaN/null text tokens,True,
+athlete_events_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+athlete_events_cleaned.csv: numeric columns parse,True,"['athlete_id', 'age', 'height_cm', 'weight_kg', 'year']"
+"olympics_medals_country_wise_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,156 rows x 17 cols
+olympics_medals_country_wise_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+olympics_medals_country_wise_cleaned.csv: no fully blank rows or columns,True,
+olympics_medals_country_wise_cleaned.csv: no NA/NaN/null text tokens,True,
+olympics_medals_country_wise_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+olympics_medals_country_wise_cleaned.csv: numeric columns parse,True,"['summer_participations', 'summer_gold', 'summer_silver', 'summer_bronze', 'summer_total', 'winter_participations', 'winter_gold', 'winter_silver', 'winter_bronze', 'winter_total', 'total_participations', 'total_gold', 'total_silver', 'total_bronze', 'total_total']"
+"olympics_2024_country_gdp_population_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,90 rows x 12 cols
+olympics_2024_country_gdp_population_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+olympics_2024_country_gdp_population_cleaned.csv: no fully blank rows or columns,True,
+olympics_2024_country_gdp_population_cleaned.csv: no NA/NaN/null text tokens,True,
+olympics_2024_country_gdp_population_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+olympics_2024_country_gdp_population_cleaned.csv: numeric columns parse,True,"['gold', 'silver', 'bronze', 'total', 'gdp', 'gdp_year', 'population']"
+"regions_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,234 rows x 3 cols
+regions_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+regions_cleaned.csv: no fully blank rows or columns,True,
+regions_cleaned.csv: no NA/NaN/null text tokens,True,
+regions_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+regions_cleaned.csv: numeric columns parse,True,
+"summer_olympic_medals_1976_2008_cleaned.csv: parses, UTF-8, no BOM, no ragged rows",True,15316 rows x 12 cols
+summer_olympic_medals_1976_2008_cleaned.csv: no Unnamed/index/blank/duplicate headers,True,
+summer_olympic_medals_1976_2008_cleaned.csv: no fully blank rows or columns,True,
+summer_olympic_medals_1976_2008_cleaned.csv: no NA/NaN/null text tokens,True,
+summer_olympic_medals_1976_2008_cleaned.csv: no leading/trailing/nbsp whitespace,True,
+summer_olympic_medals_1976_2008_cleaned.csv: numeric columns parse,True,['year']
+athlete_events_cleaned.csv: row count == expected (271105),True,271105
+all_athlete_games_cleaned.csv: row count == expected (300255),True,300255
+regions_cleaned.csv: row count == expected (234),True,234
+summer_olympic_medals_1976_2008_cleaned.csv: row count == expected (15316),True,15316
+olympics_medals_country_wise_cleaned.csv: row count == expected (156),True,156
+olympics_2024_country_gdp_population_cleaned.csv: row count == expected (90),True,90
+paris_2024_medals_by_country_cleaned.csv: row count == expected (91),True,91
+paris_2024_medals_by_sport_cleaned.csv: row count == expected (454),True,454
+tokyo_2020_medals_by_country_cleaned.csv: row count == expected (93),True,93
+paris_2024_athletes_cleaned.csv: row count == expected (11115),True,11115
+ae_clean == a2_clean(<=2016) as multisets on 11 attributes (no row multiplication/loss),True,271105 vs 271105
+ae: raw medal rows minus removed == clean medal rows,True,
+"removed rows file has 11 medal-bearing rows, none IND",True,"{('1900', 'Sailing', 'Gold'): 3, ('1900', 'Sailing', 'Silver'): 8}"
+"ae medal diff (raw - clean) == removed rows only (3 Gold, 8 Silver)",True,"{'Gold': 3, 'Silver': 8}"
+"ae: athlete_id distinct unchanged (135,571)",True,135571
+ae: categories,True,
+ae: year range 1896-2016,True,
+a2: year range 1896-2026 and 38 Games years,True,
+a2: categories,True,
+a2: blank sport/event/medal rows only in 2024 & 2026,True,
+"a2: NOC count 234, ae NOC count 230",True,"(234, 230)"
+"ae: key fields populated (athlete_id,name,sex,noc,games,year,season,sport,event)",True,
+1956 Summer still has 2 host-city values,True,
+Games == year + season,True,
+India: ae IND row count unchanged (1408),True,1408
+India: ae IND medal rows unchanged,True,197
+India: 3 Balbir Singh 1968 rows retained (ids 111012-111014),True,
+India: a2 IND rows = raw,True,1673
+India: a2 and ae agree on IND medal rows for <=2016,True,
+India: 1976-2008 medals file vs athlete_events (medal rows by year/medal),True,"{('1980', 'Gold'): 16, ('1996', 'Bronze'): 1, ('2000', 'Bronze'): 1, ('2004', 'Silver'): 1, ('2008', 'Bronze'): 2, ('2008', 'Gold'): 1}"
+"India: 16 Gold rows in 1980 retained (SINGH, Singh x2)",True,
+"India: country-wise table 10G/9S/16B=35 (summer), 0 winter, 25+11 participations",True,
+India: Paris 2024 country table 0G/1S/5B=6,True,
+India: Paris sport-level table sums to 0/1/5/6,True,"[['Athletics', '0', '1', '0'], ['Field hockey', '0', '0', '1'], ['Shooting', '0', '0', '3'], ['Wrestling', '0', '0', '1']]"
+India: Tokyo 2020 table 1G/2S/4B=7,True,
+India: Paris roster has 112 IND athletes; equals a2 2024 IND rows,True,
+Paris: sport-level sums per country == country table (after Saint/St Lucia alias; Individual Neutral Athletes reported separately),True,0 mismatches
+olympics.csv medals == olympics2024.csv for the 89 common countries,True,89
+Paris country noc fully resolved & unique,True,
+Tokyo: total==g+s+b all rows,True,
+Paris roster: athlete_code unique; heights/weights plausible,True,
+"Raw files byte-identical to start of session (sha256, 15 files)",True,
+Original uploaded ZIP unchanged,True,

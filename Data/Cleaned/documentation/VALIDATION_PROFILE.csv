@@ -1,0 +1,11 @@
+dataset,rows,cols,sex_values,height_cm_min,height_cm_max,weight_kg_min,weight_kg_max,noc_unique,year_min,year_max,medal_values,season_values,age_min,age_max
+paris_2024_athletes_cleaned.csv,11115,17,F|M,140.0,222.0,51.0,113.0,,,,,,,
+paris_2024_medals_by_country_cleaned.csv,91,9,,,,,,91.0,,,,,,
+paris_2024_medals_by_sport_cleaned.csv,454,8,,,,,,,,,,,,
+tokyo_2020_medals_by_country_cleaned.csv,93,6,,,,,,,,,,,,
+all_athlete_games_cleaned.csv,300255,14,F|M,,,,,234.0,1896.0,2026.0,(blank)|Bronze|Gold|Silver,Summer|Winter,10.0,97.0
+athlete_events_cleaned.csv,271105,15,F|M,127.0,226.0,25.0,214.0,230.0,1896.0,2016.0,(blank)|Bronze|Gold|Silver,Summer|Winter,10.0,97.0
+olympics_medals_country_wise_cleaned.csv,156,17,,,,,,156.0,,,,,,
+olympics_2024_country_gdp_population_cleaned.csv,90,12,,,,,,90.0,,,,,,
+regions_cleaned.csv,234,3,,,,,,234.0,,,,,,
+summer_olympic_medals_1976_2008_cleaned.csv,15316,12,F|M,,,,,128.0,1976.0,2008.0,Bronze|Gold|Silver,,,

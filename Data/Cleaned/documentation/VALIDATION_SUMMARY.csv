@@ -1,0 +1,11 @@
+dataset,rows_before,rows_after,rows_removed,cols_before,cols_after,exact_dup_rows_before,exact_dup_rows_after,missing_cells_before,missing_cells_after
+paris_2024_athletes_cleaned.csv,11115,11115,0,17,17,0,0,16,16831
+paris_2024_medals_by_country_cleaned.csv,91,91,0,7,9,0,0,0,0
+paris_2024_medals_by_sport_cleaned.csv,454,454,0,7,8,0,0,0,1
+tokyo_2020_medals_by_country_cleaned.csv,93,93,0,6,6,0,0,0,0
+all_athlete_games_cleaned.csv,300266,300255,11,14,14,1386,1375,879704,879678
+athlete_events_cleaned.csv,271116,271105,11,15,15,1385,1374,363853,363827
+olympics_medals_country_wise_cleaned.csv,156,156,0,17,17,0,0,0,0
+olympics_2024_country_gdp_population_cleaned.csv,90,90,0,10,12,0,0,0,0
+regions_cleaned.csv,234,234,0,4,3,0,0,216,216
+summer_olympic_medals_1976_2008_cleaned.csv,15433,15316,117,11,12,117,1,1287,0
